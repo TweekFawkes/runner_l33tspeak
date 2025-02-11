@@ -16,4 +16,4 @@ webform:
 
 launch:
   type: python
-  command: app.py --user_input ${text_to_translate}
+  command: app.py --user_input '${text_to_translate}'
